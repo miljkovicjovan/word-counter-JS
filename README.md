@@ -1,3 +1,6 @@
+https://jovi-wordcounter.netlify.app
+
+
 # Word Counter 
 This is a simlpe word counter... not much to say.
 This was made for simplicity reasons and for personal use.
